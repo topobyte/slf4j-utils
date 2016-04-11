@@ -1,0 +1,9 @@
+bin
+dist
+javadoc
+*.swp
+.project
+.classpath
+.settings
+build
+.gradle
